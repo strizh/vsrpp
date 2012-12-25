@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\settingsform.o
+./debug\pop3.o
+./debug\formnewmessage.o
+./debug\smtp.o
+./debug\moc_mainwindow.o
+./debug\moc_settingsform.o
+./debug\moc_pop3.o
+./debug\moc_formnewmessage.o
+./debug\moc_smtp.o
+);

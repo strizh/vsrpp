@@ -1,0 +1,22 @@
+X-Real-To: testacc111@open.by
+Return-Path: <testacc111@open.by>
+Received: from [195.50.31.204] (account testacc111@open.by HELO there)
+  by t2.open.by (CommuniGate Pro SMTP 5.1.16)
+  with SMTPA id 47845495 for testacc111@open.by; Sun, 23 Dec 2012 23:20:45 +0300
+To: testacc111@open.by
+From: testacc111@open.by
+Subject: ergerg
+Mime-Version: 1.0;
+Content-Type: text/html; charset="utf8";
+Content-Transfer-Encoding: 8bit;
+Date: Sun, 23 Dec 2012 23:20:45 +0300
+Message-ID: <auto-000047845495@t2.open.by>
+X-EsetId: 30605B33AA247D692F665B61A3713E38
+
+dfhgdfhd
+fsgnfgn
+
+gfg
+nf
+gn
+fgn

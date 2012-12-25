@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\settingsform.o
+./release\pop3.o
+./release\formnewmessage.o
+./release\smtp.o
+./release\moc_mainwindow.o
+./release\moc_settingsform.o
+./release\moc_pop3.o
+./release\moc_formnewmessage.o
+./release\moc_smtp.o
+);

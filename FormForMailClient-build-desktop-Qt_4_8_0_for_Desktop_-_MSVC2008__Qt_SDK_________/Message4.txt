@@ -1,0 +1,40 @@
+X-Real-To: testacc111@open.by
+Return-Path: <st.anger147@list.ru>
+Received: from [193.232.92.5] (HELO i.open.by)
+  by t2.open.by (CommuniGate Pro SMTP 5.1.16)
+  with ESMTP id 47842256 for testacc111@open.by; Sun, 23 Dec 2012 21:14:38 +0300
+Received: from smtp19.mail.ru (smtp19.mail.ru [94.100.176.156])
+	by i.open.by (8.14.1/8.14.1) with ESMTP id qBNIEcgB058091
+	for <testacc111@open.by>; Sun, 23 Dec 2012 21:14:38 +0300 (FET)
+	(envelope-from st.anger147@list.ru)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=list.ru; s=mail;
+	h=Date:Message-Id:Content-Transfer-Encoding:Content-Type:Mime-Version:Subject:From:To; bh=8bL2YoABIr7Q/yVWk9+JxEh/vc9FPTUkpC1Owgw9nAQ=;
+	b=cKtDy3DPmKkNMa6IgaaHSfuuFOT0DemS7F6JLvkJLBTb2bLaf8I1UGB84PA6usjqwbMKEb099egCeo30n0sgIp1b0n2qdCIzHOJH6ThYD0eO51/NbgnFaLlHjEiKACMrnL22Oau9BOyHfXBiCToIzfW3aCIl+LrVpvregJQmbKU=;
+Received: from [195.50.31.205] (port=59270 helo=there)
+	by smtp19.mail.ru with esmtpa (envelope-from <st.anger147@list.ru>)
+	id 1Tmq4L-0007uE-OU
+	for testacc111@open.by; Sun, 23 Dec 2012 22:14:38 +0400
+To: testacc111@open.by
+From: st.anger147@list.ru
+Subject: 11
+Mime-Version: 1.0;
+Content-Type: text/html; charset="utf8";
+Content-Transfer-Encoding: 8bit;
+Message-Id: <E1Tmq4L-0007uE-OU.st-anger147-list-ru@smtp19.mail.ru>
+Date: Sun, 23 Dec 2012 22:14:37 +0400
+X-Spam: Not detected
+X-Mras: Ok
+X-SpamTest-Envelope-From: st.anger147@list.ru
+X-SpamTest-Group-ID: 00000000
+X-SpamTest-Info: Profiles 40645 [Dec 23 2012]
+X-SpamTest-Method: none
+X-SpamTest-Rate: 0
+X-SpamTest-SPF: pass
+X-SpamTest-Status: Not detected
+X-SpamTest-Status-Extended: not_detected
+X-SpamTest-Version: SMTP-Filter Version 3.0.0 [0284], KAS30/Release
+X-Virus-Scanned: clamav-milter 0.95.3 at i.open.by
+X-Virus-Status: Clean
+X-EsetId: 41D7272DC67EA3695ED1277FCF2BEE30
+
+1

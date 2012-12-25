@@ -1,0 +1,91 @@
+X-Real-To: testacc111@open.by
+Return-Path: <Polyashuk@yandex.by>
+Received: from [193.232.92.30] (HELO p1.open.by)
+  by t2.open.by (CommuniGate Pro SMTP 5.1.16)
+  with ESMTP id 47479099 for testacc111@open.by; Mon, 17 Dec 2012 03:39:27 +0300
+Received: from forward14.mail.yandex.net (forward14.mail.yandex.net [95.108.130.92])
+	by p1.open.by (8.13.8/8.13.8) with ESMTP id qBH0dQGv024988
+	for <testacc111@open.by>; Mon, 17 Dec 2012 03:39:26 +0300
+Received: from web21f.yandex.ru (web21f.yandex.ru [95.108.130.8])
+	by forward14.mail.yandex.net (Yandex) with ESMTP id 51E8D19821EF
+	for <testacc111@open.by>; Mon, 17 Dec 2012 04:39:26 +0400 (MSK)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by web21f.yandex.ru (Yandex) with ESMTP id 1D6E9534805A;
+	Mon, 17 Dec 2012 04:39:26 +0400 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail;
+	t=1355704766; bh=uG5bM9zd3SFMbKa9RPinCOxyZV0ndsnoqNXvvWD/uDk=;
+	h=From:To:Subject:Date;
+	b=uwKOXeIe5UHjFQ55Ho3myO1evJMD2PiArlP58rgljfebloUPWabDTKBrb7nNV+rca
+	 bYyAURTs7/49sSsewUo0VwdHzmZSxgOJHzOTlxko8fuuC3qno1JrclgmKEFQwKiFm5
+	 pD+wV/wbw4pbYH363W92nHBm9idsmPZcwhc/CkFE=
+Received: from [195.50.30.204] ([195.50.30.204]) by web21f.yandex.ru with HTTP;
+	Mon, 17 Dec 2012 04:39:25 +0400
+From: Polyachok Sergey <polyashuk@yandex.by>
+To: testacc111@open.by
+Subject: Sdaem 5 labu
+MIME-Version: 1.0
+Message-Id: <46781355704765@web21f.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 17 Dec 2012 03:39:25 +0300
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain
+X-SpamTest-Envelope-From: Polyashuk@yandex.by
+X-SpamTest-Group-ID: 00000000
+X-SpamTest-Info: Profiles 40349 [Dec 17 2012]
+X-SpamTest-Method: none
+X-SpamTest-Rate: 0
+X-SpamTest-SPF: pass
+X-SpamTest-Status: Not detected
+X-SpamTest-Status-Extended: not_detected
+X-SpamTest-Version: SMTP-Filter Version 3.0.0 [0284], KAS30/Release
+X-Virus-Scanned: clamav-milter 0.97.6 at p1.open.by
+X-Virus-Status: Clean
+X-EsetId: 30605B33AA247D692F665B61A3713E38
+
+Projects
+
+Qt Creator includes a project manager that uses a cross platform project file format (.pro). A project file can contain information such as what files are included into the project, custom build steps and settings for running the applications.
+
+Qt Creator can use various build systems. However, only two of them are understood by Qt Creator - qmake and CMake. Others can be used only by defining the project as custom project.
+[edit]
+Editors
+
+Qt Creator includes a code editor and integrates Qt Designer for designing and building graphical user interfaces (GUIs) from Qt widgets.
+
+The code editor in Qt Creator supports syntax highlighting for various languages. In addition to that, the code editor can parse code in C++ and QML languages and as a result code completion, context-sensitive help, semantic navigation are provided.[3]
+
+Qt Designer is a tool for designing and building graphical user interfaces (GUIs) from Qt widgets. It is possible to compose and customize the widgets or dialogs and test them using different styles and resolutions directly in the editor. Widgets and forms created with Qt Designer are integrated with programmed code, using the Qt signals and slots mechanism.
+
+Qt Quick Designer is a tool for developing animations by using a declarative programming language QML.
+[edit]
+Targets
+
+Qt Creator provides support for building and running Qt applications for desktop environments (Windows, Linux, FreeBSD and Mac OS) and mobile devices (Android, Blackberry, Maemo, and MeeGo). Build settings allow you to switch between build targets. For mobile device targets, Qt Creator can generate an installation package, install it to a mobile device that is attached to the development computer and run it there. Installation packages can be published on the Ovi Store.
+[edit]
+Tools
+
+Qt Creator is integrated with a set of helpful tools, such as version control systems and Qt Simulator. The following version control systems are supported:
+Git
+Subversion
+Perforce
+Bazaar
+CVS
+Mercurial
+
+Qt Simulator is a tool for testing Qt applications that are intended for mobile devices in an environment similar to that of the device.
+[edit]
+Debuggers
+
+Qt Creator does not include a debugger. It provides a debugger plugin that acts as an interface between the Qt Creator core and external native debuggers to debug the C++ language. Qt Creator displays the raw information provided by the native debuggers in a simplified manner. Debuggers supported are:
+GNU Symbolic Debugger (gdb)
+Microsoft Console Debugger (CDB)
+internal Java Script debugger
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 7824 (20121221) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.esetnod32.ru/.ml
+
+
+
